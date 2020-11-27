@@ -12,3 +12,7 @@
 3. Настроить автоматическую установку для созданного kickstart файла (*) Файл загружается по HTTP
 
 4.(Дополнительно) автоматизировать процесс установки Cobbler cледуя шагам из документа https://cobbler.github.io/quickstart/ 
+
+![alt text](https://github.com/imustgetout/19th-homework-PXE/blob/main/pxe_bootloader.png)
+
+![alt text](https://github.com/imustgetout/19th-homework-PXE/blob/main/pxe_bootloader2.png)
